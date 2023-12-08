@@ -12,10 +12,18 @@
 
 ## email 정규표현식을 사용한 validation
 
+![](https://github.com/bellori729/js-homework/tree/main/mission01/explain/EmailCheck.png?raw=true)
+
 ## pw 정규표현식을 사용한 validation
 
-## 로그인 버튼을 클릭 시 user.id의 값 및 user.pw의 값과 input의 값을 비교
+![](https://github.com/bellori729/js-homework/tree/main/mission01/explain/PwCheck.png?raw=true)
 
+## 로그인 버튼을 클릭 시 user.id의 값 및 user.pw의 값과 input의 값을 비교
 ## 두 값이 일치한다면 다음 페이지(welcome.html)로 이동
 
+![](https://github.com/bellori729/js-homework/tree/main/mission01/explain/LoginCheck.png?raw=true)
+![](https://github.com/bellori729/js-homework/tree/main/mission01/explain/LoginCheck2.png?raw=true)
+
 ## IP 보안 클릭 시 찐 네이버 IP 보안 창 뜨게 하기
+
+![](https://github.com/bellori729/js-homework/tree/main/mission01/explain/ipSecurity.png?raw=true)
