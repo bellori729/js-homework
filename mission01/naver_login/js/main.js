@@ -70,3 +70,14 @@ function handleLogin(e) {
 }
 
 loginButton.addEventListener("click", handleLogin);
+
+// IP 보안 클릭 시 찐 네이버 IP 보안 창 뜨게 하기
+
+const aTag = document.querySelector(".ip-security-link");
+
+function openPopup(e) {
+  e.preventDefault();
+  window.open(aTag.href, "PopupWindow", "width=520,height=747");
+}
+
+aTag.addEventListener("click", openPopup);

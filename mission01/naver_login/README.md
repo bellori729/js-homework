@@ -10,10 +10,12 @@
 
 ---
 
-## email 정규표현식을 사용한 조건처리
+## email 정규표현식을 사용한 validation
 
 ## pw 정규표현식을 사용한 validation
 
 ## 로그인 버튼을 클릭 시 user.id의 값 및 user.pw의 값과 input의 값을 비교
 
 ## 두 값이 일치한다면 다음 페이지(welcome.html)로 이동
+
+## IP 보안 클릭 시 찐 네이버 IP 보안 창 뜨게 하기
